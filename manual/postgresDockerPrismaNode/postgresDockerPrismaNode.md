@@ -11,6 +11,7 @@
     ````
     .env
 
+    mongo/
     postgres/
 
     ````
